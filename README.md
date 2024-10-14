@@ -11,7 +11,8 @@ I'm a second year Master student in the Embedded Systems program at KTH. Here ar
 ## Projects
 
 - [Mini CPU Design and Verification](https://github.com/RylanWild/KTH_Master_Courses_EmbeddedSystems/tree/main/IL2234_Digital_Systems_Design_and_Verification_using_Hardware_Description_Languages/Lab4）: Designed a three- stage pipeline CPU using SystemVerilog which includes RegisterFile, ROM, SRAM and ALU.It also includes a testbench to generate random instructions and check the timing or correctness.
-- [Implementation of Image Procession Application](https://github.com/RylanWild/KTH_Master_Courses_EmbeddedSystems/tree/main/IL2212_Embedded_Software）:Using the synchronous programming language Lustre and ForSyDe modelling environment, then use high-level synthesis tool to implement the SDF model in C and finally implement on a DE2 FPGA.
+- [Implementation of Image Procession Application]
+- (https://github.com/RylanWild/KTH_Master_Courses_EmbeddedSystems/tree/main/IL2212_Embedded_Software） :Using the synchronous programming language Lustre and ForSyDe modelling environment, then use high-level synthesis tool to implement the SDF model in C and finally implement on a DE2 FPGA.
 
 ## Skills
 
